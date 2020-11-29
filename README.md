@@ -1,6 +1,6 @@
 # first_Flutter_app
 
-A new Flutter project.
+A new Flutter project. Training Course 1/12/2020
 
 ## Getting Started
 
